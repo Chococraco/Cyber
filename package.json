@@ -1,0 +1,21 @@
+{
+  "name": "elec",
+  "version": "1.0.0",
+  "description": "Projet Cybersécurité",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Etienne Jouvençon",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.0.3",
+    "electron-rebuild": "^2.3.4"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "ldap-authentication": "^2.2.6",
+    "ldapjs": "^2.2.3",
+    "mysql": "^2.18.1"
+  }
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Client</title>
+
+    <!-- BOOTSTRAP -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <!-- SCRIPT BOOTSTRAP JQUERRY -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/menu.css">
+
+    <!-- SCRIPT -->
+    <script src="../js/client.js"></script>
+
+</head>
+<body>
+    <div id='cssmenu'>
+        <ul>
+            <li class='active'><a href='../vue/client.html'>Client</a></li>
+            <li><a href='../vue/plan.html'>Plan</a></li>
+            <li><a href='../vue/facturation.html'>Facturation</a></li>
+            <li id="logout"><a href='#'>Deconnexion</a></li>
+        </ul>
+    </div>
+    <div id="client-page"></div>
+
+    <div id="tabclient" class="container">
+        <div class="row">
+            <div class="title">Clients :</div>
+        </div>
+        <div class="row">
+            <div class="toptab col-1">ID</div>
+            <div class="toptab col-3">NOM</div>
+            <div class="toptab col-4">ADRESSE</div>
+            <div class="toptab col-4">COMPTE BANCAIRE</div>
+        </div>
+    </div>
+</body>
+</html>
