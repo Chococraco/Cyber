@@ -1,0 +1,550 @@
+[14/12/2020 16:4:56] Verification de la connexion
+[14/12/2020 16:5:1] Tentative de connexion de l utilisateur : etienne
+[14/12/2020 16:5:1] Connexion reussie de l utilisateur : etienne
+[14/12/2020 16:5:1] Verification de la connexion
+[14/12/2020 16:5:1] Demande des donnees clients
+[14/12/2020 16:5:1] Demande des donnees factures
+[14/12/2020 16:5:6] Verification de la connexion
+[14/12/2020 16:5:6] Demande donnees produits
+[14/12/2020 16:5:6] Demande donnees pieces
+[14/12/2020 16:5:8] Verification de la connexion
+[14/12/2020 16:5:8] Demande donnees produits
+[14/12/2020 16:5:8] demande donnees clients
+[14/12/2020 16:5:9] Verification de la connexion
+[14/12/2020 16:5:9] Demande donnees produits
+[14/12/2020 16:5:9] Demande donnees pieces
+[14/12/2020 16:5:10] Verification de la connexion
+[14/12/2020 16:5:10] Demande des donnees clients
+[14/12/2020 16:5:10] Demande des donnees factures
+[14/12/2020 16:12:4] Verification de la connexion
+[14/12/2020 16:12:10] Tentative de connexion de l utilisateur : etienne
+[14/12/2020 16:12:10] Connexion reussie de l utilisateur : etienne
+[14/12/2020 16:12:10] Verification de la connexion
+[14/12/2020 16:12:10] Demande des donnees clients
+[14/12/2020 16:12:10] Demande des donnees factures
+[14/12/2020 16:17:0] Verification de la connexion
+[14/12/2020 16:17:8] Tentative de connexion de l utilisateur : etienne
+[14/12/2020 16:17:8] Connexion reussie de l utilisateur : etienne
+[14/12/2020 16:17:8] Verification de la connexion
+[14/12/2020 16:17:8] Demande des donnees clients
+[14/12/2020 16:17:8] Demande des donnees factures
+[14/12/2020 16:17:25] Verification de la connexion
+[14/12/2020 16:17:31] Tentative de connexion de l utilisateur : etienne
+[14/12/2020 16:17:31] Connexion reussie de l utilisateur : etienne
+[14/12/2020 16:17:31] Verification de la connexion
+[14/12/2020 16:17:31] Demande des donnees clients
+[14/12/2020 16:17:31] Demande des donnees factures
+[14/12/2020 16:17:39] Verification de la connexion
+[14/12/2020 16:17:39] Demande donnees produits
+[14/12/2020 16:17:39] Demande donnees pieces
+[14/12/2020 16:18:59] Verification de la connexion
+[14/12/2020 16:18:59] Verification de la connexion
+[14/12/2020 16:18:59] Verification de la connexion
+[14/12/2020 16:18:59] Verification de la connexion
+[14/12/2020 16:18:59] Verification de la connexion
+[14/12/2020 16:18:59] Verification de la connexion
+[14/12/2020 16:18:59] Verification de la connexion
+[14/12/2020 16:18:59] Verification de la connexion
+[14/12/2020 16:18:59] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:0] Verification de la connexion
+[14/12/2020 16:19:1] Verification de la connexion
+[14/12/2020 16:19:1] Verification de la connexion
+[14/12/2020 16:19:1] Verification de la connexion
+[14/12/2020 16:19:1] Verification de la connexion
+[14/12/2020 16:19:1] Verification de la connexion
+[14/12/2020 16:19:1] Verification de la connexion
+[14/12/2020 16:19:1] Verification de la connexion
+[14/12/2020 16:19:1] Verification de la connexion
+[14/12/2020 16:19:1] Verification de la connexion
+[14/12/2020 16:19:1] Verification de la connexion
+[14/12/2020 16:19:1] Verification de la connexion
+[14/12/2020 16:19:1] Verification de la connexion
+[14/12/2020 16:19:1] Verification de la connexion
+[14/12/2020 16:19:1] Verification de la connexion
+[14/12/2020 16:19:1] Verification de la connexion
+[14/12/2020 16:19:1] Verification de la connexion
+[14/12/2020 16:19:2] Verification de la connexion
+[14/12/2020 16:19:2] Verification de la connexion
+[14/12/2020 16:19:2] Verification de la connexion
+[14/12/2020 16:19:2] Verification de la connexion
+[14/12/2020 16:19:2] Verification de la connexion
+[14/12/2020 16:19:2] Verification de la connexion
+[14/12/2020 16:19:2] Verification de la connexion
+[14/12/2020 16:19:2] Verification de la connexion
+[14/12/2020 16:19:2] Verification de la connexion
+[14/12/2020 16:19:2] Verification de la connexion
+[14/12/2020 16:19:2] Verification de la connexion
+[14/12/2020 16:19:2] Verification de la connexion
+[14/12/2020 16:19:2] Verification de la connexion
+[14/12/2020 16:25:25] Verification de la connexion
+[14/12/2020 16:25:40] Tentative de connexion de l utilisateur : etienne
+[14/12/2020 16:25:40] Connexion reussie de l utilisateur : etienne
+[14/12/2020 16:25:40] Verification de la connexion
+[14/12/2020 16:25:42] Demande des donnees clients
+[14/12/2020 16:25:42] Demande des donnees factures
+[14/12/2020 16:26:8] Verification de la connexion
+[14/12/2020 16:26:8] Verification de la connexion
+[14/12/2020 16:26:9] Verification de la connexion
+[14/12/2020 16:26:9] Verification de la connexion
+[14/12/2020 16:26:9] Verification de la connexion
+[14/12/2020 16:26:9] Verification de la connexion
+[14/12/2020 16:26:9] Verification de la connexion
+[14/12/2020 16:26:9] Verification de la connexion
+[14/12/2020 16:26:9] Verification de la connexion
+[14/12/2020 16:26:9] Verification de la connexion
+[14/12/2020 16:26:9] Verification de la connexion
+[14/12/2020 16:26:9] Verification de la connexion
+[14/12/2020 16:26:9] Verification de la connexion
+[14/12/2020 16:26:9] Verification de la connexion
+[14/12/2020 16:26:9] Verification de la connexion
+[14/12/2020 16:26:10] Verification de la connexion
+[14/12/2020 16:26:10] Verification de la connexion
+[14/12/2020 16:26:10] Verification de la connexion
+[14/12/2020 16:26:10] Verification de la connexion
+[14/12/2020 16:26:10] Verification de la connexion
+[14/12/2020 16:26:10] Verification de la connexion
+[14/12/2020 16:26:10] Verification de la connexion
+[14/12/2020 16:26:10] Verification de la connexion
+[14/12/2020 16:26:10] Verification de la connexion
+[14/12/2020 16:26:10] Verification de la connexion
+[14/12/2020 16:26:10] Verification de la connexion
+[14/12/2020 16:26:10] Verification de la connexion
+[14/12/2020 16:26:10] Verification de la connexion
+[14/12/2020 16:26:11] Verification de la connexion
+[14/12/2020 16:26:11] Verification de la connexion
+[14/12/2020 16:26:11] Verification de la connexion
+[14/12/2020 16:26:11] Verification de la connexion
+[14/12/2020 16:26:11] Verification de la connexion
+[14/12/2020 16:26:11] Verification de la connexion
+[14/12/2020 16:26:11] Verification de la connexion
+[14/12/2020 16:26:11] Verification de la connexion
+[14/12/2020 16:26:11] Verification de la connexion
+[14/12/2020 16:26:11] Verification de la connexion
+[14/12/2020 16:26:11] Verification de la connexion
+[14/12/2020 16:26:11] Verification de la connexion
+[14/12/2020 16:26:11] Verification de la connexion
+[14/12/2020 16:26:11] Verification de la connexion
+[14/12/2020 16:26:12] Verification de la connexion
+[14/12/2020 16:26:12] Verification de la connexion
+[14/12/2020 16:29:2] Verification de la connexion
+[14/12/2020 16:29:2] Verification de la connexion
+[14/12/2020 16:29:2] Verification de la connexion
+[14/12/2020 16:29:2] Verification de la connexion
+[14/12/2020 16:29:2] Verification de la connexion
+[14/12/2020 16:29:3] Verification de la connexion
+[14/12/2020 16:29:3] Verification de la connexion
+[14/12/2020 16:29:3] Verification de la connexion
+[14/12/2020 16:29:3] Verification de la connexion
+[14/12/2020 16:29:3] Verification de la connexion
+[14/12/2020 16:29:3] Verification de la connexion
+[14/12/2020 16:29:3] Verification de la connexion
+[14/12/2020 16:29:3] Verification de la connexion
+[14/12/2020 16:29:3] Verification de la connexion
+[14/12/2020 16:29:3] Verification de la connexion
+[14/12/2020 16:29:3] Verification de la connexion
+[14/12/2020 16:29:3] Verification de la connexion
+[14/12/2020 16:29:3] Verification de la connexion
+[14/12/2020 16:29:3] Verification de la connexion
+[14/12/2020 16:29:3] Verification de la connexion
+[14/12/2020 16:29:3] Verification de la connexion
+[14/12/2020 16:29:4] Verification de la connexion
+[14/12/2020 16:29:4] Verification de la connexion
+[14/12/2020 16:29:4] Verification de la connexion
+[14/12/2020 16:29:4] Verification de la connexion
+[14/12/2020 16:29:4] Verification de la connexion
+[14/12/2020 16:29:4] Verification de la connexion
+[14/12/2020 16:29:4] Verification de la connexion
+[14/12/2020 16:29:4] Verification de la connexion
+[14/12/2020 16:29:4] Verification de la connexion
+[14/12/2020 16:29:4] Verification de la connexion
+[14/12/2020 16:29:4] Verification de la connexion
+[14/12/2020 16:29:4] Verification de la connexion
+[14/12/2020 16:29:4] Verification de la connexion
+[14/12/2020 16:29:4] Verification de la connexion
+[14/12/2020 16:29:4] Verification de la connexion
+[14/12/2020 16:29:4] Verification de la connexion
+[14/12/2020 16:29:5] Verification de la connexion
+[14/12/2020 16:29:5] Verification de la connexion
+[14/12/2020 16:29:5] Verification de la connexion
+[14/12/2020 16:29:34] Verification de la connexion
+[14/12/2020 16:29:34] Verification de la connexion
+[14/12/2020 16:29:34] Verification de la connexion
+[14/12/2020 16:29:34] Verification de la connexion
+[14/12/2020 16:29:34] Verification de la connexion
+[14/12/2020 16:29:34] Verification de la connexion
+[14/12/2020 16:29:34] Verification de la connexion
+[14/12/2020 16:29:34] Verification de la connexion
+[14/12/2020 16:29:35] Verification de la connexion
+[14/12/2020 16:29:35] Verification de la connexion
+[14/12/2020 16:29:35] Verification de la connexion
+[14/12/2020 16:29:35] Verification de la connexion
+[14/12/2020 16:29:35] Verification de la connexion
+[14/12/2020 16:29:35] Verification de la connexion
+[14/12/2020 16:29:35] Verification de la connexion
+[14/12/2020 16:29:35] Verification de la connexion
+[14/12/2020 16:29:35] Verification de la connexion
+[14/12/2020 16:29:35] Verification de la connexion
+[14/12/2020 16:29:35] Verification de la connexion
+[14/12/2020 16:29:35] Verification de la connexion
+[14/12/2020 16:29:35] Verification de la connexion
+[14/12/2020 16:29:35] Verification de la connexion
+[14/12/2020 16:29:35] Verification de la connexion
+[14/12/2020 16:29:35] Verification de la connexion
+[14/12/2020 16:29:35] Verification de la connexion
+[14/12/2020 16:29:36] Verification de la connexion
+[14/12/2020 16:29:36] Verification de la connexion
+[14/12/2020 16:29:36] Verification de la connexion
+[14/12/2020 16:29:36] Verification de la connexion
+[14/12/2020 16:29:36] Verification de la connexion
+[14/12/2020 16:29:36] Verification de la connexion
+[14/12/2020 16:29:36] Verification de la connexion
+[14/12/2020 16:29:36] Verification de la connexion
+[14/12/2020 16:29:36] Verification de la connexion
+[14/12/2020 16:29:36] Verification de la connexion
+[14/12/2020 16:29:36] Verification de la connexion
+[14/12/2020 16:29:36] Verification de la connexion
+[14/12/2020 16:29:36] Verification de la connexion
+[14/12/2020 16:29:36] Verification de la connexion
+[14/12/2020 16:29:36] Verification de la connexion
+[14/12/2020 16:29:36] Verification de la connexion
+[14/12/2020 16:30:17] Verification de la connexion
+[14/12/2020 16:30:17] Verification de la connexion
+[14/12/2020 16:30:17] Verification de la connexion
+[14/12/2020 16:30:17] Verification de la connexion
+[14/12/2020 16:30:17] Verification de la connexion
+[14/12/2020 16:30:17] Verification de la connexion
+[14/12/2020 16:30:17] Verification de la connexion
+[14/12/2020 16:30:17] Verification de la connexion
+[14/12/2020 16:30:17] Verification de la connexion
+[14/12/2020 16:30:17] Verification de la connexion
+[14/12/2020 16:30:17] Verification de la connexion
+[14/12/2020 16:30:17] Verification de la connexion
+[14/12/2020 16:30:17] Verification de la connexion
+[14/12/2020 16:30:17] Verification de la connexion
+[14/12/2020 16:30:17] Verification de la connexion
+[14/12/2020 16:30:17] Verification de la connexion
+[14/12/2020 16:30:17] Verification de la connexion
+[14/12/2020 16:30:18] Verification de la connexion
+[14/12/2020 16:30:18] Verification de la connexion
+[14/12/2020 16:30:18] Verification de la connexion
+[14/12/2020 16:30:18] Verification de la connexion
+[14/12/2020 16:30:18] Verification de la connexion
+[14/12/2020 16:30:18] Verification de la connexion
+[14/12/2020 16:30:18] Verification de la connexion
+[14/12/2020 16:30:18] Verification de la connexion
+[14/12/2020 16:30:18] Verification de la connexion
+[14/12/2020 16:30:18] Verification de la connexion
+[14/12/2020 16:30:18] Verification de la connexion
+[14/12/2020 16:30:18] Verification de la connexion
+[14/12/2020 16:30:18] Verification de la connexion
+[14/12/2020 16:30:18] Verification de la connexion
+[14/12/2020 16:30:18] Verification de la connexion
+[14/12/2020 16:30:18] Verification de la connexion
+[14/12/2020 16:30:18] Verification de la connexion
+[14/12/2020 16:30:19] Verification de la connexion
+[14/12/2020 16:30:19] Verification de la connexion
+[14/12/2020 16:30:19] Verification de la connexion
+[14/12/2020 16:30:19] Verification de la connexion
+[14/12/2020 16:30:19] Verification de la connexion
+[14/12/2020 16:30:19] Verification de la connexion
+[14/12/2020 16:31:27] Verification de la connexion
+[14/12/2020 16:31:27] Verification de la connexion
+[14/12/2020 16:31:27] Verification de la connexion
+[14/12/2020 16:31:27] Verification de la connexion
+[14/12/2020 16:31:27] Verification de la connexion
+[14/12/2020 16:31:27] Verification de la connexion
+[14/12/2020 16:31:28] Verification de la connexion
+[14/12/2020 16:31:28] Verification de la connexion
+[14/12/2020 16:31:28] Verification de la connexion
+[14/12/2020 16:31:28] Verification de la connexion
+[14/12/2020 16:31:28] Verification de la connexion
+[14/12/2020 16:31:28] Verification de la connexion
+[14/12/2020 16:31:28] Verification de la connexion
+[14/12/2020 16:31:28] Verification de la connexion
+[14/12/2020 16:31:28] Verification de la connexion
+[14/12/2020 16:31:28] Verification de la connexion
+[14/12/2020 16:31:28] Verification de la connexion
+[14/12/2020 16:31:28] Verification de la connexion
+[14/12/2020 16:33:14] Verification de la connexion
+[14/12/2020 16:33:14] Verification de la connexion
+[14/12/2020 16:33:14] Verification de la connexion
+[14/12/2020 16:33:14] Verification de la connexion
+[14/12/2020 16:33:14] Verification de la connexion
+[14/12/2020 16:33:14] Verification de la connexion
+[14/12/2020 16:33:14] Verification de la connexion
+[14/12/2020 16:33:14] Verification de la connexion
+[14/12/2020 16:33:15] Verification de la connexion
+[14/12/2020 16:33:15] Verification de la connexion
+[14/12/2020 16:33:15] Verification de la connexion
+[14/12/2020 16:33:15] Verification de la connexion
+[14/12/2020 16:33:15] Verification de la connexion
+[14/12/2020 16:33:15] Verification de la connexion
+[14/12/2020 16:33:15] Verification de la connexion
+[14/12/2020 16:33:15] Verification de la connexion
+[14/12/2020 16:33:15] Verification de la connexion
+[14/12/2020 16:33:15] Verification de la connexion
+[14/12/2020 16:33:15] Verification de la connexion
+[14/12/2020 16:33:15] Verification de la connexion
+[14/12/2020 16:33:15] Verification de la connexion
+[14/12/2020 16:33:15] Verification de la connexion
+[14/12/2020 16:33:15] Verification de la connexion
+[14/12/2020 16:33:15] Verification de la connexion
+[14/12/2020 16:33:15] Verification de la connexion
+[14/12/2020 16:33:16] Verification de la connexion
+[14/12/2020 16:33:16] Verification de la connexion
+[14/12/2020 16:33:16] Verification de la connexion
+[14/12/2020 16:33:16] Verification de la connexion
+[14/12/2020 16:33:16] Verification de la connexion
+[14/12/2020 16:33:16] Verification de la connexion
+[14/12/2020 16:33:16] Verification de la connexion
+[14/12/2020 16:37:27] Verification de la connexion
+[14/12/2020 16:37:27] Verification de la connexion
+[14/12/2020 16:37:27] Verification de la connexion
+[14/12/2020 16:37:27] Verification de la connexion
+[14/12/2020 16:37:27] Verification de la connexion
+[14/12/2020 16:37:27] Verification de la connexion
+[14/12/2020 16:37:27] Verification de la connexion
+[14/12/2020 16:37:27] Verification de la connexion
+[14/12/2020 16:37:27] Verification de la connexion
+[14/12/2020 16:37:27] Verification de la connexion
+[14/12/2020 16:37:27] Verification de la connexion
+[14/12/2020 16:37:28] Verification de la connexion
+[14/12/2020 16:37:28] Verification de la connexion
+[14/12/2020 16:37:28] Verification de la connexion
+[14/12/2020 16:37:28] Verification de la connexion
+[14/12/2020 16:37:28] Verification de la connexion
+[14/12/2020 16:37:28] Verification de la connexion
+[14/12/2020 16:37:28] Verification de la connexion
+[14/12/2020 16:37:28] Verification de la connexion
+[14/12/2020 16:37:28] Verification de la connexion
+[14/12/2020 16:37:28] Verification de la connexion
+[14/12/2020 16:37:28] Verification de la connexion
+[14/12/2020 16:37:28] Verification de la connexion
+[14/12/2020 16:38:26] Verification de la connexion
+[14/12/2020 16:38:26] Verification de la connexion
+[14/12/2020 16:38:26] Verification de la connexion
+[14/12/2020 16:38:26] Verification de la connexion
+[14/12/2020 16:38:26] Verification de la connexion
+[14/12/2020 16:38:26] Verification de la connexion
+[14/12/2020 16:38:26] Verification de la connexion
+[14/12/2020 16:38:26] Verification de la connexion
+[14/12/2020 16:38:26] Verification de la connexion
+[14/12/2020 16:38:27] Verification de la connexion
+[14/12/2020 16:38:27] Verification de la connexion
+[14/12/2020 16:38:27] Verification de la connexion
+[14/12/2020 16:38:27] Verification de la connexion
+[14/12/2020 16:38:27] Verification de la connexion
+[14/12/2020 16:38:27] Verification de la connexion
+[14/12/2020 16:38:27] Verification de la connexion
+[14/12/2020 16:38:27] Verification de la connexion
+[14/12/2020 16:38:27] Verification de la connexion
+[14/12/2020 16:38:27] Verification de la connexion
+[14/12/2020 16:38:27] Verification de la connexion
+[14/12/2020 16:39:0] Verification de la connexion
+[14/12/2020 16:39:0] Verification de la connexion
+[14/12/2020 16:39:0] Verification de la connexion
+[14/12/2020 16:39:0] Verification de la connexion
+[14/12/2020 16:39:0] Verification de la connexion
+[14/12/2020 16:39:1] Verification de la connexion
+[14/12/2020 16:39:1] Verification de la connexion
+[14/12/2020 16:39:1] Verification de la connexion
+[14/12/2020 16:39:1] Verification de la connexion
+[14/12/2020 16:39:1] Verification de la connexion
+[14/12/2020 16:39:1] Verification de la connexion
+[14/12/2020 16:39:1] Verification de la connexion
+[14/12/2020 16:39:1] Verification de la connexion
+[14/12/2020 16:39:1] Verification de la connexion
+[14/12/2020 16:39:1] Verification de la connexion
+[14/12/2020 16:39:1] Verification de la connexion
+[14/12/2020 16:40:19] Verification de la connexion
+[14/12/2020 16:40:19] Verification de la connexion
+[14/12/2020 16:40:19] Verification de la connexion
+[14/12/2020 16:40:19] Verification de la connexion
+[14/12/2020 16:40:19] Verification de la connexion
+[14/12/2020 16:40:19] Verification de la connexion
+[14/12/2020 16:40:19] Verification de la connexion
+[14/12/2020 16:40:19] Verification de la connexion
+[14/12/2020 16:40:19] Verification de la connexion
+[14/12/2020 16:40:19] Verification de la connexion
+[14/12/2020 16:40:19] Verification de la connexion
+[14/12/2020 16:40:19] Verification de la connexion
+[14/12/2020 16:40:19] Verification de la connexion
+[14/12/2020 16:41:0] Verification de la connexion
+[14/12/2020 16:41:0] Verification de la connexion
+[14/12/2020 16:41:0] Verification de la connexion
+[14/12/2020 16:41:0] Verification de la connexion
+[14/12/2020 16:41:0] Verification de la connexion
+[14/12/2020 16:41:0] Verification de la connexion
+[14/12/2020 16:41:0] Verification de la connexion
+[14/12/2020 16:41:0] Verification de la connexion
+[14/12/2020 16:41:0] Verification de la connexion
+[14/12/2020 16:41:0] Verification de la connexion
+[14/12/2020 16:41:0] Verification de la connexion
+[14/12/2020 16:41:0] Verification de la connexion
+[14/12/2020 16:41:0] Verification de la connexion
+[14/12/2020 16:41:0] Verification de la connexion
+[14/12/2020 16:41:0] Verification de la connexion
+[14/12/2020 16:41:0] Verification de la connexion
+[14/12/2020 16:41:1] Verification de la connexion
+[14/12/2020 16:41:1] Verification de la connexion
+[14/12/2020 16:41:1] Verification de la connexion
+[14/12/2020 16:41:1] Verification de la connexion
+[14/12/2020 16:41:1] Verification de la connexion
+[14/12/2020 16:41:1] Verification de la connexion
+[14/12/2020 16:41:1] Verification de la connexion
+[14/12/2020 16:41:1] Verification de la connexion
+[14/12/2020 16:41:1] Verification de la connexion
+[14/12/2020 16:41:1] Verification de la connexion
+[14/12/2020 16:41:1] Verification de la connexion
+[14/12/2020 16:41:1] Verification de la connexion
+[14/12/2020 16:41:1] Verification de la connexion
+[14/12/2020 16:41:1] Verification de la connexion
+[14/12/2020 16:41:8] Verification de la connexion
+[14/12/2020 16:41:8] Verification de la connexion
+[14/12/2020 16:41:8] Verification de la connexion
+[14/12/2020 16:41:8] Verification de la connexion
+[14/12/2020 16:41:8] Verification de la connexion
+[14/12/2020 16:41:9] Verification de la connexion
+[14/12/2020 16:41:9] Verification de la connexion
+[14/12/2020 16:41:9] Verification de la connexion
+[14/12/2020 16:41:9] Verification de la connexion
+[14/12/2020 16:41:9] Verification de la connexion
+[14/12/2020 16:41:9] Verification de la connexion
+[14/12/2020 16:41:9] Verification de la connexion
+[14/12/2020 16:41:9] Verification de la connexion
+[14/12/2020 16:41:9] Verification de la connexion
+[14/12/2020 16:41:9] Verification de la connexion
+[14/12/2020 16:41:9] Verification de la connexion
+[14/12/2020 16:41:9] Verification de la connexion
+[14/12/2020 16:43:55] Verification de la connexion
+[14/12/2020 16:44:4] Tentative de connexion de l utilisateur : etienne
+[14/12/2020 16:44:4] Connexion reussie de l utilisateur : etienne
+[14/12/2020 16:44:4] Verification de la connexion
+[14/12/2020 16:44:4] Demande des donnees clients
+[14/12/2020 16:44:4] Demande des donnees factures
+[14/12/2020 16:44:7] Verification de la connexion
+[14/12/2020 16:44:8] Demande donnees produits
+[14/12/2020 16:44:8] Demande donnees pieces
+[14/12/2020 16:44:10] Verification de la connexion
+[14/12/2020 16:44:10] Demande donnees produits
+[14/12/2020 16:44:10] demande donnees clients
+[14/12/2020 16:51:23] Verification de la connexion
+[14/12/2020 16:51:28] Tentative de connexion de l utilisateur : etienne
+[14/12/2020 16:51:28] Connexion reussie de l utilisateur : etienne
+[14/12/2020 16:51:28] Verification de la connexion
+[14/12/2020 16:51:28] Demande des donnees clients de : etienne
+[14/12/2020 16:51:28] Demande des donnees factures de : etienne
+[15/12/2020 10:6:29] Verification de la connexion
+[15/12/2020 10:6:31] Erreur de la connexion à la base de données MYSQL
+[15/12/2020 10:7:46] Verification de la connexion
+[15/12/2020 10:7:58] Tentative de connexion de l utilisateur : etienne
+[15/12/2020 10:7:58] Connexion reussie de l utilisateur : etienne
+[15/12/2020 10:7:58] Verification de la connexion
+[15/12/2020 10:8:3] Verification de la connexion
+[15/12/2020 10:8:3] Demande donnees produits de : etienne
+[15/12/2020 10:8:3] Demande donnees pieces de : etienne
+[15/12/2020 10:8:36] Verification de la connexion
+[15/12/2020 10:8:43] Tentative de connexion de l utilisateur : etienne
+[15/12/2020 10:8:43] Connexion reussie de l utilisateur : etienne
+[15/12/2020 10:8:43] Verification de la connexion
+[15/12/2020 10:9:32] Verification de la connexion
+[15/12/2020 10:9:45] Tentative de connexion de l utilisateur : etienne
+[15/12/2020 10:9:45] Connexion reussie de l utilisateur : etienne
+[15/12/2020 10:9:45] Verification de la connexion
+[15/12/2020 10:9:45] Demande des donnees clients de : etienne
+[15/12/2020 10:9:45] Demande des donnees factures de : etienne
+[15/12/2020 10:9:49] Verification de la connexion
+[15/12/2020 10:9:49] Demande donnees produits de : etienne
+[15/12/2020 10:9:49] Demande donnees pieces de : etienne
+[15/12/2020 10:9:50] Verification de la connexion
+[15/12/2020 10:9:50] Demande donnees produits de : etienne
+[15/12/2020 10:9:50] demande donnees clients de : etienne
+[15/12/2020 10:12:34] Verification de la connexion
+[15/12/2020 10:12:40] Tentative de connexion de l utilisateur : etienne
+[15/12/2020 10:12:40] Connexion reussie de l utilisateur : etienne
+[15/12/2020 10:12:40] Verification de la connexion
+[15/12/2020 10:12:40] Demande des donnees clients de : etienne
+[15/12/2020 10:12:40] Demande des donnees factures de : etienne
+[15/12/2020 10:12:41] Verification de la connexion
+[15/12/2020 10:12:41] Demande donnees produits de : etienne
+[15/12/2020 10:12:41] Demande donnees pieces de : etienne
+[15/12/2020 10:12:42] Verification de la connexion
+[15/12/2020 10:12:42] Demande donnees produits de : etienne
+[15/12/2020 10:12:42] demande donnees clients de : etienne
+[15/12/2020 10:12:43] Verification de la connexion
+[15/12/2020 10:12:43] Demande donnees produits de : etienne
+[15/12/2020 10:12:43] Demande donnees pieces de : etienne
+[15/12/2020 10:12:44] Verification de la connexion
+[15/12/2020 10:12:44] Demande des donnees clients de : etienne
+[15/12/2020 10:12:44] Demande des donnees factures de : etienne
+[15/12/2020 10:12:44] Verification de la connexion
+[15/12/2020 10:12:44] Demande donnees produits de : etienne
+[15/12/2020 10:12:44] Demande donnees pieces de : etienne
+[15/12/2020 10:12:46] Deconnexion de : etienne
+[15/12/2020 10:12:48] Verification de la connexion
+[15/12/2020 10:12:48] Demande donnees produits de : unknown
+[15/12/2020 10:12:48] demande donnees clients de : unknown
+[15/12/2020 10:12:48] Verification de la connexion
+[15/12/2020 10:12:48] Verification de la connexion
+[15/12/2020 10:13:9] Verification de la connexion
+[15/12/2020 10:13:14] Tentative de connexion de l utilisateur : etienne
+[15/12/2020 10:13:14] Connexion reussie de l utilisateur : etienne
+[15/12/2020 10:13:14] Verification de la connexion
+[15/12/2020 10:13:14] Demande des donnees clients de : etienne
+[15/12/2020 10:13:14] Demande des donnees factures de : etienne
+[15/12/2020 10:13:15] Deconnexion de : etienne
+[15/12/2020 10:13:15] Verification de la connexion
+[15/12/2020 10:13:15] Verification de la connexion
+[15/12/2020 10:13:37] Verification de la connexion
+[15/12/2020 10:13:44] Tentative de connexion de l utilisateur : etienne
+[15/12/2020 10:13:44] Connexion reussie de l utilisateur : etienne
+[15/12/2020 10:13:44] Verification de la connexion
+[15/12/2020 10:13:44] Demande des donnees clients de : etienne
+[15/12/2020 10:13:44] Demande des donnees factures de : etienne
+[15/12/2020 10:13:46] Verification de la connexion
+[15/12/2020 10:13:46] Demande donnees produits de : etienne
+[15/12/2020 10:13:46] demande donnees clients de : etienne
+[15/12/2020 10:13:46] Verification de la connexion
+[15/12/2020 10:13:46] Demande donnees produits de : etienne
+[15/12/2020 10:13:46] Demande donnees pieces de : etienne
+[15/12/2020 10:13:47] Verification de la connexion
+[15/12/2020 10:13:47] Demande des donnees clients de : etienne
+[15/12/2020 10:13:47] Demande des donnees factures de : etienne
+[15/12/2020 10:13:48] Verification de la connexion
+[15/12/2020 10:13:48] Demande donnees produits de : etienne
+[15/12/2020 10:13:48] demande donnees clients de : etienne
+[15/12/2020 10:13:56] Verification de la connexion
+[15/12/2020 10:13:56] Demande donnees produits de : etienne
+[15/12/2020 10:13:56] Demande donnees pieces de : etienne
+[15/12/2020 10:15:14] Verification de la connexion
+[15/12/2020 10:15:14] Demande des donnees clients de : etienne
+[15/12/2020 10:15:14] Demande des donnees factures de : etienne
+[15/12/2020 10:49:44] Verification de la connexion
+[15/12/2020 10:49:49] Tentative de connexion de l utilisateur : etienne
+[15/12/2020 10:49:49] Connexion reussie de l utilisateur : etienne
+[15/12/2020 10:49:49] Verification de la connexion
+[15/12/2020 10:49:49] Demande des donnees clients de : etienne
+[15/12/2020 10:49:49] Demande des donnees factures de : etienne
+[15/12/2020 10:49:52] Verification de la connexion
+[15/12/2020 10:49:52] Demande donnees produits de : etienne
+[15/12/2020 10:49:52] Demande donnees pieces de : etienne
+[15/12/2020 10:49:53] Verification de la connexion
+[15/12/2020 10:49:53] Demande donnees produits de : etienne
+[15/12/2020 10:49:53] demande donnees clients de : etienne

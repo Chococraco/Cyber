@@ -1,0 +1,322 @@
+/* BODY */
+body{
+    background-color: #c2c2d6;
+}
+
+/* TEXTE DE LA PAGE DE CONNEXION */
+.login-label{
+    /* MARGE */
+    margin: auto;
+    margin-top: 25vh;
+
+    /* POLICE */
+    font-size: 5vh;
+}
+
+/* BOX DE LOGIN  */
+.login-box{
+    /* MARGE */
+    margin: auto;
+    margin-top: 3vh;
+
+    /* TAILLE  */
+    width: 50vh;
+    height: 25vh;
+
+    /* COULEUR ET CONTOURS*/
+    background-color: #b3b3cc;
+
+    /* BORDURE */
+    border-style: solid;
+    border-color: #666699;
+    border-width: 3px;
+    border-radius: 10px;
+}
+
+/* INPUT DU LOGIN */
+.login-input{
+    /* MARGE */
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 5%;
+
+    /* TAILLE */
+    width: 90%;
+    height: 20%;
+
+    /* BORDURE */
+    border-style: solid;
+    border-color: #666699;
+    border-width: 3px;
+    border-radius: 10px;
+
+    /* POLICE */
+    font-size: 2.5vh;
+
+    /* SETUP PLACEHOLDER */
+    text-indent: 4%;
+}
+
+.login-input:focus{
+    /* SURLIGNAGE */
+    outline: none;
+
+    /* BORDURE */
+    border-color: #0066ff;
+}
+
+/* BOUTON LOGIN */
+.login-button{
+    /* MARGE */
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+    /* TAILLE */
+    width: 90%;
+    height: 20%;
+
+    /* BORDURE */
+    border-style: solid;
+    border-color: #666699;
+    border-width: 3px;
+    border-radius: 10px;
+
+    /* POLICE */
+    font-size: 2.5vh;
+    color: #666699;
+}
+
+.login-button:hover{
+    /* COULEUR */
+    background-color: #e0e0eb;
+}
+
+.login-button:focus{
+    /* SURLIGNAGE */
+    outline: none;
+
+    /* BORDURE */
+    border-color: #0066ff;
+}
+
+/* HAUT DE TABLEAU */
+.toptab{
+    /* TAILLE */
+    height: 5vh;
+
+    /* COULEUR */
+    background-color: #ffffff;
+
+    /* BORDURE */
+    border-bottom-style: solid;
+    border-right-style: solid;
+    border-width: 3px;
+    border-color: black;
+
+    /* POLICE */
+    font-size: 2vh;
+    vertical-align: middle;
+
+}
+
+/* CASE TABLEAU */
+.tab{
+    /* TAILLE */
+    height: 5vh;
+
+    /* BORDURE */
+    border-bottom-style: solid;
+    border-width: 3px;
+    border-color: black;
+
+    /* POLICE */
+    font-size: 1.5vh;
+
+    /* POINTEUR */
+    cursor: pointer;
+}
+
+/* CASE PAIR */
+.pair{
+    /* COULEUR */
+    background-color: #f0f0f5;
+}
+
+/* IMPAIR */
+.impair{
+    /* COULEUR */
+    background-color: #e0e0eb;
+}
+
+/* HAUT DE SOUS TABLEAU */
+.sub-toptab{
+    /* TAILLE */
+    height: 3vh;
+
+    /* COULEUR */
+    background-color: #ffffff;
+
+    /* BORDURE */
+    border-bottom-style: solid;
+    border-right-style: solid;
+    border-width: 3px;
+    border-color: black;
+
+    /* POLICE */
+    font-size: 1.6vh;
+    vertical-align: middle;
+
+}
+
+/* CASE SOUS TABLEAU */
+.sub-tab{
+    /* TAILLE */
+    height: 3vh;
+
+    /* BORDURE */
+    border-bottom-style: solid;
+    border-width: 3px;
+    border-color: black;
+
+    /* POLICE */
+    font-size: 1.5vh;
+
+}
+
+/* TITRE DES PAGES */
+.title{
+    /* MARGE */
+    margin: auto;
+    margin-top: 5vh;
+    margin-bottom: 2vh;
+
+    /* POLICE */
+    font-size: 3.5vh;
+}
+
+/* INPUT DE FACTURATION PETIT */
+.input-facturation{
+    /* TAILLE */
+    width: 90%;
+    height: 5vh;
+
+    /* MARGE */
+    margin: auto;
+
+    /* BORDURE */
+    border-style: solid;
+    border-color: #666699;
+    border-width: 3px;
+    border-radius: 10px;
+
+    /* POLICE */
+    font-size: 2vh;
+
+    /* SETUP PLACEHOLDER */
+    text-indent: 4%;
+}
+
+.input-facturation:focus{
+    /* SURLIGNAGE */
+    outline: none;
+
+    /* BORDURE */
+    border-color: #0066ff;
+}
+
+/* INPUT DE FACTURATION LARGE */
+.input-large-facturation{
+    /* TAILLE */
+    width: 80%;
+    height: 50vh;
+
+    /* MARGE */
+    margin: auto;
+    margin-top: 3vh;
+
+    /* BORDURE */
+    border-style: solid;
+    border-color: #666699;
+    border-width: 3px;
+    border-radius: 10px;
+
+    /* POLICE */
+    font-size: 2vh;
+
+    /* SETUP PLACEHOLDER */
+    text-indent: 1%;
+}
+
+.input-large-facturation:focus{
+    /* SURLIGNAGE */
+    outline: none;
+
+    /* BORDURE */
+    border-color: #0066ff;
+}
+
+/* INPUT DE FACTURATION LARGE 2 */
+.input-large2-facturation{
+    /* TAILLE */
+    width: 80%;
+    height: 5vh;
+
+    /* MARGE */
+    margin: auto;
+    margin-top: 3vh;
+
+    /* BORDURE */
+    border-style: solid;
+    border-color: #666699;
+    border-width: 3px;
+    border-radius: 10px;
+
+    /* POLICE */
+    font-size: 2vh;
+
+    /* SETUP PLACEHOLDER */
+    text-indent: 1%;
+}
+
+.input-large2-facturation:focus{
+    /* SURLIGNAGE */
+    outline: none;
+
+    /* BORDURE */
+    border-color: #0066ff;
+}
+
+/* BOUTON FACUTRE */
+.facture-button{
+    /* MARGE */
+    margin: auto;
+    margin-top: 2vh;
+
+    /* TAILLE */
+    width: 80%;
+    height: 6vh;
+
+    /* BORDURE */
+    border-style: solid;
+    border-color: #666699;
+    border-width: 3px;
+    border-radius: 10px;
+
+    /* POLICE */
+    font-size: 2.5vh;
+    color: #666699;
+}
+
+.facture-button:hover{
+    /* COULEUR */
+    background-color: #e0e0eb;
+}
+
+.facture-button:focus{
+    /* SURLIGNAGE */
+    outline: none;
+
+    /* BORDURE */
+    border-color: #0066ff;
+}
