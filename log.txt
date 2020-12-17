@@ -548,3 +548,19 @@
 [15/12/2020 10:49:53] Verification de la connexion
 [15/12/2020 10:49:53] Demande donnees produits de : etienne
 [15/12/2020 10:49:53] demande donnees clients de : etienne
+[15/12/2020 14:33:4] Verification de la connexion
+[15/12/2020 14:33:13] Tentative de connexion de l utilisateur : etienne
+[15/12/2020 14:33:14] Connexion reussie de l utilisateur : etienne
+[15/12/2020 14:33:14] Verification de la connexion
+[15/12/2020 14:33:14] Demande des donnees clients de : etienne
+[15/12/2020 14:33:14] Demande des donnees factures de : etienne
+[15/12/2020 14:33:38] Verification de la connexion
+[15/12/2020 14:33:47] Tentative de connexion de l utilisateur : etienne
+[15/12/2020 14:33:47] Connexion refuse de l utilisateur : etienne
+[15/12/2020 14:33:47] Verification de la connexion
+[15/12/2020 14:34:7] Tentative de connexion de l utilisateur : etienne
+[15/12/2020 14:34:7] Connexion reussie de l utilisateur : etienne
+[15/12/2020 14:34:7] Verification de la connexion
+[15/12/2020 14:34:7] Demande des donnees clients de : etienne
+[15/12/2020 14:34:7] Demande des donnees factures de : etienne
+[15/12/2020 15:34:36] Verification de la connexion

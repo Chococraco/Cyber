@@ -19,9 +19,9 @@ let mainWindow;
 
 /* PARTIE BDD */
 var connection = mysql.createConnection({
-    host     : 'localhost',
-    user     : 'root',
-    password : null, // or the original password : 'apaswword'
+    host     : '10.10.51.3',
+    user     : 'userDB',
+    password : '', // or the original password : 'apaswword'
     database : 'cyber'
 });
 
@@ -60,9 +60,9 @@ function log(text){
 
     var lg = date + ' ' + text;
     console.log(lg);
-    fs.appendFile('log.txt', lg + '\n', function (err) {
+    /*fs.appendFile('log.txt', lg + '\n', function (err) {
         if (err) throw err;
-    });
+    });*/
 }
 
 function createWindow () {
