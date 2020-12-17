@@ -232,7 +232,7 @@ ipc.on('check-auth', (event, args) => {
     else{
 
     }*/
-    if(actualURL.includes('connexion.html')){
+    if(str.session != sessionHash || actualURL.includes('connexion.html')){
 
     }
     else{
