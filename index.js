@@ -217,7 +217,7 @@ ipc.on('register-facture', (event, args) => {
 });
 
 //SECU
-//On enregistre les factures
+//On check l'auth
 ipc.on('check-auth', (event, args) => {
     //Recup la session
     const ses = mainWindow.webContents.session
@@ -226,10 +226,16 @@ ipc.on('check-auth', (event, args) => {
     var actualURL = mainWindow.webContents.getURL();
     var connectURL = `file:///${__dirname}/vue/connexion.html`;
     var connectURL2 = connectURL.replace(/\\/g, '/');
-    if(str.session != sessionHash && actualURL != connectURL2){
+    /*if(str.session != sessionHash && actualURL != connectURL2){
         mainWindow.loadURL(`file://${__dirname}/vue/connexion.html`);
     }
     else{
 
+    }*/
+    if(actualURL.includes('connexion.html')){
+
+    }
+    else{
+        mainWindow.loadURL(`file://${__dirname}/vue/connexion.html`);
     }
 });
